@@ -1,1 +1,1 @@
-# Practice codes for Data Analysis using python and R.
+# Practice codes for Data Analysis using python.
